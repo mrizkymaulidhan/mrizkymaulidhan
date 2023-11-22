@@ -9,12 +9,12 @@ My internship as a Data Engineer shaped my skills in the art of analysis, proces
 
 ### My Absolute Favorites:
 
-- 📊 &nbsp; I thrive on uncovering insights through Data Analytics.
-- 🛠️ &nbsp; Data Engineering excites and fuels my creative drive.
-- 🧪 &nbsp; I embark on captivating journeys within the realm of Data Science.
-- 🗃️ &nbsp; My passion ignites in the realm of Database Development.
-- 📚 &nbsp; I excel in the art of Database Management, orchestrating seamless data landscapes.
-- 🤖 &nbsp; AI and ML Development captivate my curiosity with their boundless possibilities.
+- 📊 &nbsp; Data Analytics
+- 🛠️ &nbsp; Data Engineering
+- 🧪 &nbsp; Data Science
+- 🗃️ &nbsp; Database Development
+- 📚 &nbsp; Database Management
+- 🤖 &nbsp; AI and ML Development
 
 <div align="center">
 
